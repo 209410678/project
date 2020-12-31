@@ -1,0 +1,68 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+body  {
+  background: url('/img/Reviewed.com-RvEW-20872-GettyImages-589415708.jpg') no-repeat center center/cover;
+  margin: auto;
+  height: 100vh;
+  h1 {
+    height: 113px;
+    width: 288px;
+    border-radius: "nullpx";
+    font-family: " Roboto";
+    font-size: 96px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 500px;
+    color: #ffbb00;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    
+  }
+
+  p {
+    height: 56px;
+    width: 324px;
+    left: -259px;
+    top: -874px;
+    border-radius: "nullpx";
+    font-family: "Roboto";
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 450px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ebc726;
+    margin: auto;
+  }
+
+  a {
+    height: 56px;
+    width: 192px;
+    left: -193px;
+    top: -744px;
+    border-radius: "nullpx";
+    font-family: "Roboto";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 400px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000;
+    text-decoration: none;
+    margin: 0 auto;
+    margin-left: 20%;
+  }
+
+ 
+}
+
+
